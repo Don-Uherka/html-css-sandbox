@@ -9,3 +9,6 @@ article :first-child {
 article p:last-of-type {
   font-weight: bold;
 }
+ul li:nth-child(odd) {
+  color: deeppink;
+}
