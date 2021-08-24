@@ -2,7 +2,10 @@ body {
   margin: 10px;
 }
 
-p :first-child {
+article :first-child {
   font-size: 140%;
   font-style: italic;
+}
+article p:last-of-type {
+  font-weight: bold;
 }
