@@ -1,2 +1,2 @@
 # html-css-sandbox
-This is where I practice my HTML and CSS techniques.
+This is where I practice my HTML, CSS, and SCSS techniques.
