@@ -2,18 +2,12 @@ body {
   margin: 10px;
 }
 
-p::first-letter {
-  font-size: 140%;
-  font-weight: bold;
+h1 {
+  color: dodgerblue;
 }
-
-p::first-line {
-  font-weight: bold;
+.highlight {
+  color: chocolate;
 }
-::selection {
-  background-color: deeppink;
-}
-p::before {
-  content: "...";
-  display: block;
+#products {
+  color: green;
 }
