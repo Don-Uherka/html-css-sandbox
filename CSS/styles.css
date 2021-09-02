@@ -2,6 +2,8 @@ body {
   margin: 10px;
 }
 
-p {
-  color: dodgerblue;
+.box {
+  width: 200px;
+  height: 200px;
+  background: linear-gradient(dodgerblue, yellow, pink);
 }
