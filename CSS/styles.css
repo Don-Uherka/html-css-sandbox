@@ -3,8 +3,7 @@ body {
 }
 
 .box {
-  width: 1000px;
-  height: 1000px;
-  background: radial-gradient(white, royalblue);
-  border: 10px solid deepskyblue;
+  width: 100px;
+  height: 100px;
+  background-color: gold;
 }
