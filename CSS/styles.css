@@ -2,13 +2,6 @@ body {
   margin: 10px;
 }
 
-.box::before {
-  content: "Hello";
-}
-
-.box {
-  width: 150px;
-  height: 150px;
-  border: 3px solid orange;
-  overflow: scroll;
+.first {
+  visibility: hidden;
 }
